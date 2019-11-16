@@ -1,1 +1,2 @@
-# Lab-Poo
+# PracticasLab
+practicas laboratorio de POO
